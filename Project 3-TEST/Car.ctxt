@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Car
+comment1.params=
+comment1.target=Car()
+comment10.params=turbo
+comment10.target=void\ setTurbo(boolean)
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=double\ getCost()
+comment3.params=boughtOn\ name\ nameOfBuyer\ trim\ turbo
+comment3.target=Car(java.util.GregorianCalendar,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ boolean)
+comment4.params=boughtOn\ name\ boughtCost\ trim\ turbo
+comment4.target=Car(java.util.GregorianCalendar,\ java.lang.String,\ int,\ java.lang.String,\ boolean)
+comment5.params=
+comment5.target=java.lang.String\ getTrim()
+comment6.params=trim
+comment6.target=void\ setTrim(java.lang.String)
+comment7.params=buyPrice\ soldPrice
+comment7.target=double\ getSoldBoughtCost(double,\ double)
+comment8.params=
+comment8.target=boolean\ isTurbo()
+comment9.params=
+comment9.target=void\ testingGithub()
+numComments=12

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=boughtTruckDialog
+comment1.params=parent\ auto
+comment1.target=boughtTruckDialog(javax.swing.JFrame,\ Auto)
+comment1.text=\r\n\ \ \ \ \ Instantiate\ a\ Custom\ Dialog\ as\ 'modal'\ and\ wait\ for\ the\r\n\ \ \ \ \ user\ to\ provide\ data\ and\ click\ on\ a\ button.\r\n\ \ \ \ \ @param\ parent\ reference\ to\ the\ JFrame\ application\r\n\ \ \ \ \ @param\ auto\ an\ instantiated\ object\ to\ be\ filled\ with\ data\r\n
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.text=\r\n\ \ \ \ \ Respond\ to\ either\ button\ clicks\r\n\ \ \ \ \ @param\ e\ the\ action\ event\ that\ was\ just\ fired\r\n
+comment3.params=
+comment3.target=int\ getCloseStatus()
+comment3.text=\r\n\ \ \ \ \ Return\ a\ String\ to\ let\ the\ caller\ know\ which\ button\r\n\ \ \ \ \ was\ clicked\r\n\ \ \ \ \ @return\ an\ int\ representing\ the\ option\ OK\ or\ CANCEL\r\n
+numComments=4

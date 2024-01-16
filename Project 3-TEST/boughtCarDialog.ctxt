@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=boughtCarDialog
+comment0.text=\r\n\ A\ dialog\ box\ that\ appears\ once\ a\ user\ selects\ to\ buy\ a\ car\ in\r\n\ the\ menu\ bar.\ Asks\ the\ user\ for\ input\ on\ the\ car\ they\ bought\r\n\ such\ as\ the\ name,\ date,\ trim\ package,\ cost,\ and\ if\ it's\ turbo\r\n\ or\ not.\r\n
+comment1.params=parent\ auto
+comment1.target=boughtCarDialog(javax.swing.JFrame,\ Auto)
+comment1.text=\r\n\ \ \ \ \ Instantiate\ a\ Custom\ Dialog\ as\ 'modal'\ and\ wait\ for\ the\r\n\ \ \ \ \ user\ to\ provide\ data\ and\ click\ on\ a\ button.\r\n\ \ \ \ \ @param\ parent\ reference\ to\ the\ JFrame\ application\r\n\ \ \ \ \ @param\ auto\ an\ instantiated\ object\ to\ be\ filled\ with\ data\r\n
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.text=\r\n\ \ \ \ \ Respond\ to\ either\ button\ clicks.\ OK\ Button\ should\ check\ for\r\n\ \ \ \ \ valid\ input.\r\n\ \ \ \ \ @param\ e\ the\ action\ event\ that\ was\ just\ fired\r\n
+comment3.params=
+comment3.target=int\ getCloseStatus()
+comment3.text=\r\n\ \ \ \ \ Return\ a\ String\ to\ let\ the\ caller\ know\ which\ button\r\n\ \ \ \ \ was\ clicked\r\n\ \ \ \ \ @return\ an\ int\ representing\ the\ option\ OK\ or\ CANCEL\r\n
+numComments=4

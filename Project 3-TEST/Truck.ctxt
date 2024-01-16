@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Truck
+comment1.params=
+comment1.target=Truck()
+comment2.params=
+comment2.target=double\ getCost()
+comment3.params=buyPrice\ soldPrice
+comment3.target=double\ getSoldBoughtCost(double,\ double)
+comment4.params=boughtOn\ name\ nameOfBuyer\ trimPackage\ fourByFour
+comment4.target=Truck(java.util.GregorianCalendar,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ boolean)
+comment5.params=boughtOn\ name\ boughtCost\ trimPackage\ fourByFour
+comment5.target=Truck(java.util.GregorianCalendar,\ java.lang.String,\ int,\ java.lang.String,\ boolean)
+comment6.params=
+comment6.target=boolean\ isFourByFour()
+comment7.params=fourByFour
+comment7.target=void\ setFourByFour(boolean)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9
